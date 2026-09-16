@@ -5,3 +5,6 @@ Runs a JavaScript program that prints 'hello' in the terminal.
 ## How to run
 '''bash
 node app.js
+## Day 2
+
+Practicing Git and GitHub workflows.
