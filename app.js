@@ -1,1 +1,1 @@
-console.log("Hello from my Day 1 Git branch!");
+console.log("Hello from my Git branch!");
