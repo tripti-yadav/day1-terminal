@@ -1,1 +1,1 @@
-console.log("hello");
+console.log("Hello from my Day 1 project!");
